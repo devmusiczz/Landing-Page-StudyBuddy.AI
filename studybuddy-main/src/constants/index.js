@@ -34,6 +34,10 @@ import {
   telegram,
   twitter,
   yourlogo,
+  yourlogo01,
+  yourlogo02,
+  yourlogo03,
+  yourlogo04,
 } from "../assets";
 
 export const navigation = [
@@ -75,7 +79,7 @@ export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
 
 export const notificationImages = [notification4, notification3, notification2];
 
-export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
+export const companyLogos = [yourlogo, yourlogo01, yourlogo02, yourlogo03, yourlogo04];
 
 export const brainwaveServices = [
   "Photo generating",
@@ -244,16 +248,16 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: "Ask anything",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Custom Virtual Avatars",
+    text: "Users can create virtual avatars for their AI companions, customizing their appearance, gender, age, and other characteristics to suit their preferences.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "1",
-    title: "Improve everyday",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    title: "Emotional Expression",
+    text: "Avatars can convey emotions and expressions through facial animations, body language, and voice modulation, enhancing the conversational experience and making interactions more engaging.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -261,16 +265,16 @@ export const benefits = [
   },
   {
     id: "2",
-    title: "Connect everywhere",
-    text: "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
+    title: "Natural Language Processing",
+    text: "The AI companion within the tutorial stack is equipped with advanced natural language processing capabilities, allowing it to explain complex topics in a conversational manner. Users can ask questions, seek clarification, and receive detailed explanations tailored to their level of understanding.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
   },
   {
     id: "3",
-    title: "Fast responding",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Expert Advice",
+    text: "The AI companion can provide expert guidance and recommendations based on established best practices and industry standards. Users can receive personalized advice on how to approach specific tasks or challenges, drawing from the expertise of professionals in the field.",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
@@ -278,8 +282,8 @@ export const benefits = [
   },
   {
     id: "4",
-    title: "Ask anything",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Multimodal Content",
+    text: "In addition to text-based explanations, the tutorial stack may incorporate multimedia content such as videos, audio clips, and interactive infographics to enhance comprehension and cater to different learning styles.",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,

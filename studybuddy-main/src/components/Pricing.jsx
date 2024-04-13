@@ -28,8 +28,8 @@ const Pricing = () => {
         </div>
 
         <Heading
-          tag="Get started with Brainwave"
-          title="Pay once, use forever"
+          tag="Get started with StudyBuddy.Ai"
+          title="Monthly Subscription Charges"
         />
 
         <div className="relative">

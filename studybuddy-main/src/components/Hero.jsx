@@ -36,7 +36,7 @@ const Hero = () => {
             </span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-            Unleash the power of AI within StudyBuddy. Chat with Ai Companion
+            Unleash the power of AI. Chat with Ai Companion
             using StudyBuddy.Ai, Learn from greatest Personalities.
           </p>
           <Button href="/pricing" white>
